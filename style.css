@@ -21,6 +21,8 @@ footer {
   background: #666;
   border-top: 8px solid #4aaaa5;
   height: 50px;
+  margin: 200px 0px 0px 0px;
+  
 }
 
 #name {
@@ -65,4 +67,14 @@ background-color: #4aaaa5;
   height: auto;
   margin-top: 10px;
   margin-right: 25px;
+}
+#Me{
+  max-width: 150px;
+  float: left;
+  margin-right: 20px;
+}
+
+ .footer-containder{ 
+   padding-top: 500px;
+
 }
